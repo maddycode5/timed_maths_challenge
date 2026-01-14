@@ -24,7 +24,7 @@ def generate_problem():
     return exp,answer
 
 wrong=0
-input("PRESS ENTER TO START !")
+input("PRESS ENTER TO START !!")
 print(" ------------------------- ")
 
 start_time =time.time()
